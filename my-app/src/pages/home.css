@@ -45,8 +45,8 @@
   padding: 25px;
   border-radius: 100px;
   position: fixed;
-  bottom: 40px;
-  right: 10%;
+  top: 80px;
+  right: 2%;
   z-index: 1;
 }
 
