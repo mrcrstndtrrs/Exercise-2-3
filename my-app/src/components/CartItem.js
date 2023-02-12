@@ -1,4 +1,3 @@
-// src/components/CartItem.js
 import "./cartItem.css";
 import {
   incrementQuantity,
