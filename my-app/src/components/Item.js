@@ -10,7 +10,7 @@ function Item({ id, title, image, price }) {
       <div className="item__info">
         <p className="item__title">{title}</p>
         <p className="item__price">
-          <small>$</small>
+          <small>₱</small>
           <strong>{price}</strong>
         </p>
       </div>

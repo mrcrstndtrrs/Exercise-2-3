@@ -8,6 +8,7 @@ import {
   BsTwitter,
   BsPinterest,
 } from "react-icons/bs";
+
 const Footer = () => {
   return (
     <>

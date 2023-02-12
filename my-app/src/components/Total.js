@@ -18,7 +18,7 @@ function Total() {
       <div>
         <p className="total__p">
           total ({getTotal().totalQuantity} items) :{" "}
-          <strong>${getTotal().totalPrice}</strong>
+          <strong>₱{getTotal().totalPrice}</strong>
         </p>
       </div>
     </div>
